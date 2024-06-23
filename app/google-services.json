@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311879230054",
+    "project_id": "ecocubox",
+    "storage_bucket": "ecocubox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311879230054:android:4cc3f65f0baa30faa743a7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311879230054-7o43u7p3o0bod9ert34nlu40ak3e756e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrYSBy2KQ8j1Mf1bljG0EyOIvJYGJbT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311879230054-7o43u7p3o0bod9ert34nlu40ak3e756e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
